@@ -1,0 +1,8 @@
+{
+    "AUTHOR" : "Swanky",
+    "SHORT" : "Translate anything into binary",
+    "DESCRIPTION" : "This is just a testing cog made to translate anything written into binary code, for no huge reason. But now you know there is something out there for this.",
+    "DISABLED" : false,
+    "NAME" : "binary",
+    "INSTALL_MSG" : "`[p]This cog is a work in progress, it is not fully functional at the moment."
+}
